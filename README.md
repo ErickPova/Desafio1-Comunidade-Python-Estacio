@@ -20,8 +20,11 @@
 
 ## Principais Aprendizado ao realizar esse desafio:
 .Criar Funções;
+
 .Manipulação de strings;
+
 .Condicional IF;
+
 
 ## Contato
 E-mail: e.rickilopova@hotmail.com
