@@ -18,6 +18,11 @@
 
 6. Se o usuário responder "não" no início, o programa fornecerá uma explicação sobre o que é um palíndromo.
 
+## Principais Aprendizado ao realizar esse desafio:
+.Criar Funções;
+.Manipulação de strings;
+.Condicional IF;
+
 ## Contato
 E-mail: e.rickilopova@hotmail.com
 
